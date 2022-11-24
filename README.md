@@ -14,6 +14,8 @@ The dexterous human hand requires the coordination of multiple highly redundant 
 
 In this repository, we try to solve musculoskeletal tasks with `Double DQN reinforcement learning`. A `transformer` model has been used as the base model architecture.
 
+The goal of challenge is to push our understanding of physiological motor-control responsible for nimble and agile movements of the human body. we are focusing on developing controllers for contact rich dexterous manipulation behaviors. 
+
 <img width="1240" alt="TasksALL" src="https://github.com/facebookresearch/myosuite/blob/main/docs/source/images/myoSuite_All.png?raw=true">
 
 # Tools and Technologies
