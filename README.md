@@ -116,7 +116,7 @@ https://user-images.githubusercontent.com/32032481/203811935-cd0b2921-d184-4661-
 </video>
 
 
-https://user-images.githubusercontent.com/32032481/203812055-11247412-3821-475e-8426-88a1d16e8262.mp4
+https://user-images.githubusercontent.com/32032481/204562803-16a79301-ab43-4206-b45e-d94ac7de754a.mp4
 
 
 ## myoHandKeyTurnFixed-v0
